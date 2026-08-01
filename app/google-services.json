@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386937365632",
+    "project_id": "tinghir-tv",
+    "storage_bucket": "tinghir-tv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386937365632:android:e37614542cc50ace153265",
+        "android_client_info": {
+          "package_name": "com.aistudio.tinghirtv.vwyxqm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQKx0AaJxLQE-UzvSZ8xQQV8csrOHkT0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

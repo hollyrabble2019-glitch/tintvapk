@@ -1,0 +1,27 @@
+{
+  "ads": {
+    "enabled": true,
+    "app_id": "ca-app-pub-4402921387999545~7695131497",
+    "banner_id": "ca-app-pub-4402921387999545/8164635863",
+    "interstitial_id": "ca-app-pub-4402921387999545/5552449815",
+    "app_open_id": "ca-app-pub-4402921387999545/5065218868",
+    "phone": {
+      "enabled": true,
+      "banner": true,
+      "interstitial": true,
+      "app_open": true
+    },
+    "tablet": {
+      "enabled": true,
+      "banner": true,
+      "interstitial": true,
+      "app_open": true
+    },
+    "tv": {
+      "enabled": true,
+      "banner": true,
+      "interstitial": true,
+      "app_open": true
+    }
+  }
+}
