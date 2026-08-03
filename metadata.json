@@ -1,0 +1,6 @@
+{
+  "name": "Tinghir TV",
+  "description": "A modern Android TV + Phone application for streaming live TV channels and matches with M3U8 URLs, support for favorites, and remote D-Pad navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
